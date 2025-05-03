@@ -4,7 +4,8 @@
       Travel Log
     </NuxtLink>
     <div class="navbar-end">
-      <button class="btn">
+      <AppThemeToggle />
+      <button class="btn btn-accent">
         Sing in With Github
         <Icon name="tabler:brand-github" size="24" />
       </button>
